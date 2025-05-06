@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import calendar
 import time
 
-bot = telebot.TeleBot('7835306572:AAGIi_1aCIJciSYY-B78-Z9vgPQr_ckFfIw')  # Замените на реальный токен
+bot = telebot.TeleBot('7835306572:AAGIi_1aCIJciSYY-B78-Z9vgPQr_ckFfIw')  
 
 
 # Инициализация базы данных
